@@ -19,22 +19,40 @@ main{
 
 .container{
    padding-left: 180px;
-   margin-top: 100px;
+   margin-top: 120px;
+
 }
-.Style{
+.colorp{
+    color: black;
+}
+.style{
     background-color: DODGERBLUE;
+    color: white;
+}
+.style2{
+    color: grey;
 }
 .tasks-container{
     background-color: white;
     padding: 20px;
     border-radius: 10px;
 }
-.circle-check{
-    border: 1px solid green; 
-    color: green;
+.circle-icon{
+    border: 1px solid black; 
+    color: black;
     border-radius: 50%;
     width: 20px;
     height: 20px;
     display: inline-block;
     text-align: center;
+}
+.circle-cross{
+        border: 1px solid green;
+        color: green;
+        
+}
+.circle-check{
+        border: 1px solid red;
+        color: red;
+        
 }

@@ -56,3 +56,84 @@ main{
         color: red;
         
 }
+.bottone1 {
+    background-color: #47ADF1;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0, 6em;
+    border-radius: 4px;
+    color: white;
+}
+.bottone2 {
+    background-color: #47ADF1;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0, 6em;
+    border-radius: 4px;
+    color: white;
+}
+.bottone3 {
+    background-color: violet;
+    border: 1px;
+    width: 60px;
+    height: 20px;
+    font-size: 0.5em;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+}
+.bottone4 {
+background-color: lightseagreen;
+   border: 1px;
+   width: 50px;
+   height: 20px;
+   font-size: 0.6rem;
+   border-radius: 8px;
+   color: white;
+}
+.bottone5{
+    background-color: orange;
+    border: 1px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6rem;
+    border-radius: 8px;
+    color: white;
+}
+.bottone6 {
+    background-color: rgb(230, 119, 232);
+    border: 1px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6rem;
+    border-radius: 8px;
+    color: white;
+}
+.bottone7 {
+    background-color: rgb(136, 255, 152);
+    border: 1px;
+    width: 50px;
+    height: 20px;
+    font-size: 0.6rem;
+    border-radius: 8px;
+    color: white;
+}
+.bottone8 {
+    background-color: #47ADF1;
+    border: 0px;
+    width: 50px;
+    height: 20px;
+    font-size: 0, 6em;
+    border-radius: 4px;
+    color: white;
+}
+ background-color:•#64C0A9;
+ border: 1px;
+ width: 50px;
+ height: 20px;
+ font-size: 0.6em;
+ border-radius: 8px;
+ color:•white;
+ }
